@@ -1,0 +1,13 @@
+42b9c078212c0be9ed07909e7bc16c27 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+89963fe780a5174d31fdd3ebeccf0029 *R/LIS.pvalue.R
+1b631f9cc722ad563024953872c2da29 *R/cliss.R
+fe1c826611faa1385ed8ab7b8948ceb9 *R/lis.R
+304b00c4ccfaf646bffd876476cb2664 *data/CUM.LN.rda
+bfc9afad25aa81410efeda8e4fda0d61 *data/MODE.LN.rda
+d3583e3e8f88a1961c35e60fdc035ed8 *man/CUM.LN.Rd
+d0251bc9550f94ef5ca47c0090fffaf3 *man/LIS.pvalue.Rd
+15c03d8272fa2ba00c7f7d6d7fb170f9 *man/LIStest-package.Rd
+b1b3d3639ce020d2e6ea553412c072ef *man/MODE.LN.Rd
+f063b5063421679128572ecaf2f5b8fd *man/cliss.Rd
+26a9817a39b1da6840fc67eab893b6b1 *man/lis.Rd
